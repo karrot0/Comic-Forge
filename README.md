@@ -8,6 +8,7 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/karrot0/Comic-Forge?style=social)
   ![GitHub Repo Forks](https://img.shields.io/github/forks/karrot0/Comic-Forge?style=social)
   ![GitHub Repo Issues](https://img.shields.io/github/issues/karrot0/Comic-Forge)
+  [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/96n2tXSPAP)
 </div>
 
 ## 🌟 Features

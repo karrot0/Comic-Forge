@@ -2,12 +2,12 @@
   <h1>🎨 Comic Forge</h1>
   <p>An AI-powered platform for creating and managing comic projects</p>
   
-  ![GitHub](https://img.shields.io/github/license/yourusername/comic-forge)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/comic-forge)
+  ![GitHub](https://img.shields.io/github/license/karrot0/Comic-Forge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/karrot0/Comic-Forge)
   ![Status](https://img.shields.io/badge/status-in%20development-orange)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/comic-forge?style=social)
-  ![GitHub Repo Forks](https://img.shields.io/github/forks/yourusername/comic-forge?style=social)
-  ![GitHub Repo Issues](https://img.shields.io/github/issues/yourusername/comic-forge)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/karrot0/Comic-Forge?style=social)
+  ![GitHub Repo Forks](https://img.shields.io/github/forks/karrot0/Comic-Forge?style=social)
+  ![GitHub Repo Issues](https://img.shields.io/github/issues/karrot0/Comic-Forge)
 </div>
 
 ## 🌟 Features
